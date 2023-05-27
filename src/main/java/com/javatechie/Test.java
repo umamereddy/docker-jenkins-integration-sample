@@ -6,5 +6,10 @@ public class Test {
 		System.out.println("Hello...");
 
 	}
+	
+	public void integrationMethod() {
+		System.out.println("integration-pipeline-check");
+		
+	}
 
 }
