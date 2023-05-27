@@ -7,7 +7,7 @@ public class Test {
 
 	}
 	
-	public void integrationMethod() {
+	public  integrationMethod() {
 		System.out.println("integration-pipeline-check");
 		
 	}
